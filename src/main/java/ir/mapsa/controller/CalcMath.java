@@ -1,4 +1,4 @@
-package ir.mapsa;
+package ir.mapsa.controller;
 
 import org.apache.commons.math3.stat.descriptive.DescriptiveStatistics;
 import java.util.List;

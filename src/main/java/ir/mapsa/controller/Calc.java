@@ -1,15 +1,9 @@
-package ir.mapsa;
+package ir.mapsa.controller;
 
 public class Calc {
     private String operator;
     private float num1;
     private float num2;
-
-    public Calc(String operator, float num1, float num2) {
-        this.operator = operator;
-        this.num1 = num1;
-        this.num2 = num2;
-    }
 
     public String getOperator() {
         return operator;
